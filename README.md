@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LenovoGuy98
 - 👀 I’m interested in Linux Engineering
 - 🌱 I’m currently learning git
-- 
+- ✨ Is a systems administrator by trade.
 - 📫 How to reach me email
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: ...
